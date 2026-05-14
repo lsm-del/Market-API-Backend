@@ -22,28 +22,6 @@
 - momchanpick 
 - 맘찬픽 
 
-## Repos
-
-- [Backend](https://github.com/UOS-Capstone/Market-API-Backend)
-- Frontend
-  - [home](https://github.com/ummgoban/ummgoban)
-  - [web-view](https://github.com/ummgoban/web-view)
-  - [client](https://github.com/ummgoban/client-app)
-  - [admin](https://github.com/ummgoban/admin-client-app)
-  - [shared](https://github.com/ummgoban/shared)
-
-## Member
-
-| 깃헙 | 직책 | 업무 | 활동 기간 |
-| --- | --- | --- | ------ |
-| [김도현](https://github.com/l-lyun) | 팀장 | 프론트엔드 개발 | founding |
-| [김영민](https://github.com/99mini) | 대표 | 프론트엔드 리드 | founding |
-| [이상민](https://github.com/lsm-del) | 팀원 | 백엔드 리드 | founding |
-| [이승민](https://github.com/itslitulinchpin2) | 팀원 | 프론트엔드 개발 | founding |
-| [이소은](https://github.com/soeun2537) | 팀원 | 백엔드 개발 | 2024 |
-| [김기찬](https://github.com/gichan222) | 팀원 | 인프라, 백엔드 개발 | 2025 ~ |
-| [박찬](https://github.com/longrunpc) | 팀원 | 백엔드 개발 | 2025 ~ |
-
 ## 위키
 
 - [1분반-엄고반](https://capstone.uos.ac.kr/cdc/index.php/1%EB%B6%84%EB%B0%98-%EC%97%84%EA%B3%A0%EB%B0%98)
